@@ -1,0 +1,8 @@
+#!/bin/bash
+## Cluster job specification for the application chapter
+
+#$ -N student-app
+#$ -t 1-42
+
+R --vanilla < geweke-application.R
+

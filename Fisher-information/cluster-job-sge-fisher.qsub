@@ -1,0 +1,8 @@
+#!/bin/bash
+## Cluster job specification for the Fisher information plot
+
+#$ -N student-fisher
+#$ -t 1-10100
+
+R --vanilla < fisher-info.R
+

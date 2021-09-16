@@ -1,0 +1,8 @@
+#!/bin/bash
+## Cluster job specification for the simulation study
+
+#$ -N student-t
+#$ -t 1-7425
+
+R --vanilla < simulate_student_asis.R
+
