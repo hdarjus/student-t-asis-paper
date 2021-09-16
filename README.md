@@ -1,4 +1,4 @@
-Description of the Supplementary Material for the attached paper. Written by Darjus Hosszejni,
+Description of the Supplementary Material for the [attached paper](https://arxiv.org/abs/2109.01726). Written by Darjus Hosszejni,
 2021.
 
 1. LICENSE: GNU General Public Lincese version 3 or higher. You must have received a copy of the license as part of this material.
